@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "minecraft:netherite_scrap",
+    "minecraft:gold_ingot",
+    "minecraft:netherite_scrap"
+  ],
+  "result": {
+    "id": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}
